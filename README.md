@@ -12,3 +12,5 @@ ii) Final Project GitHub Repo: https://github.com/sakibulislam/cse719_final_pro
 
 iii) Final Project Presentation Video: https://drive.google.com/file/d/1tvKMpg34vEwsK_PMmmnBMw3RCYw4ORkQ/view?usp=sharing
 
+iv) Final Project Presentation ppt: https://drive.google.com/file/d/1v6Z4DvWfPS0L8vr94kBdPu9Kiv7bmBV2/view?usp=sharing
+
