@@ -6,7 +6,7 @@ Group Members:
 
 Final Project Title: Smart Bangla Translator Using Real-Time Audio Processing
 
-i) Final Project Report: 
+i) Final Project Report: https://drive.google.com/file/d/1bg20be8Gtfr9J4dT1MLzG3tVo0YwU1ay/view?usp=sharing
 
 ii) Final Project GitHub Repo: https://github.com/sakibulislam/cse719_final_project_submission_20366021_20266017
 
