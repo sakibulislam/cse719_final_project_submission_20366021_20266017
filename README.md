@@ -1,1 +1,3 @@
-# cse719_final_project_submission_20366021_20266017
+# SmartTranslater
+ 
+This is a python project which can read any English speech and translate the speech into Bengali language.
